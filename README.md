@@ -4,3 +4,4 @@
 - [Client Identifiers API](./client-identifiers.md)
 - [Client Address API](./client-address.md)
 - [Documents API](./documents.md)
+- [Family Details API](./family-deatils.md)
