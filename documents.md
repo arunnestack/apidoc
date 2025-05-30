@@ -27,7 +27,7 @@ description:voterid image
 ```
 
 ### DELETE
-**Description:** Delete an identifier 
+**Description:** Delete a document 
 -  **URL:**  `https://heylon.finflux.io/fineract-provider/api/v1/clients/{clientID}/documents/{documentID}`
 -  **Method:**  `DELETE`
 -  **Sample URL:**  `https://heylon.finflux.io/fineract-provider/api/v1/clients/205/documents/91785`
