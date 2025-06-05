@@ -9,3 +9,5 @@
 - [Loan Applications API](./loan-applications.md)
 - [Loan Agreements API](./loan-agreements.md)
 - [Loans API](./loans.md)
+- [Loan Application Workflow API](./loan-application-workflow.md)
+
